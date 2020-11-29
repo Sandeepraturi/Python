@@ -9,3 +9,8 @@ print('\nExample-2: Take input from user and display message')
 your_name = input('Enter your name: ')
 age = int(input('Enter you age: '))
 print('Hello, {}!, your age is {}.'.format(your_name, age))
+
+# Example - 3:
+print("\nExample - 3:\nEnter anything:")
+x1 = input()
+print("You entered : ", x1)
