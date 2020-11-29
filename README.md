@@ -1,5 +1,5 @@
 # Python
-Learn Pyhton fundamentals here.
+Python fundamentals here.
 
 If you want to learn Power BI from basic to advance visit -
 Website: https://www.powerbidocs.com
